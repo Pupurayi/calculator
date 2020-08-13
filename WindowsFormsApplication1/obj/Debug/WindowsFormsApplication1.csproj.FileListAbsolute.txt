@@ -1,0 +1,16 @@
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Paula\Desktop\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paula\Desktop\Visual Studio\The-final-calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
